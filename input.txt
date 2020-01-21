@@ -1,0 +1,26 @@
+Name     Exam1 Exam 2 
+George     25 50
+Roxie      75 90
+Thomas     58 68
+James      76 97
+Jame       78 79
+Monroe     67 76
+Baard      56 90
+Quincy     45 80
+Adams      78 90
+Andrew     99 67
+Jackson    56 57
+Martin     68 78
+Van        66 90
+Buren      58 23
+William    45 90
+Harrison   56 96
+John       56 78
+Tyler      34 65
+James      67 60
+Polk       34 67
+Zachary    56 89
+Taylor     89 98
+Millard    67 79
+Fillmore   45 38
+Franklin   67 78
